@@ -8,20 +8,20 @@
 ### D.1.1 Low Fidelity Prototype Description
 We created a low-fidelity prototype of our application using **Whimsical**, a tool that allowed us to quickly design this prototype. The prototype included the following main pages:
 
-- 🏁 **Race** – list of available and upcoming races
-- 📰 **Feed** – posts and relevant community news
-- 👤 **Profile** – user profile with past races
+- **Race** – list of available and upcoming races
+- **Feed** – posts and relevant community news
+- **Profile** – user profile with past races
 
-### 🔍 User Tasks
+### User Tasks
 
 We asked users to complete two specific tasks to evaluate the usability and logic of our prototype:
 
-1. **“Go to the Profile page and view the race named *Pernas off*.”**
-2. **“Register for an official race.”**
+- **“Go to the Profile page and view the race named *Pernas off*.”**
+-  **“Register for an official race.”**
 
 These tasks were designed to test navigation flow, button visibility, and clarity of labels across the prototype.
 
-### 🧠 Observations & Feedback
+### Observations & Feedback
 - Most users were able to complete the tasks without major difficulty.
 - One user hesitated before finding the “Pernas off” race, which indicated the need for better visual distinction between past and upcoming races.
 

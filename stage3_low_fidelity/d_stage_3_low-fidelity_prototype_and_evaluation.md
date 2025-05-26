@@ -31,7 +31,7 @@ The low-fidelity prototype was evaluated through user testing sessions with thre
 ### Strengths
 Users found the general navigation to be straightforward. The interface structure felt intuitive, especially the clear separation between the "Feed", "Profile", and "Race" sections. The use of icons and consistent layout helped guide users naturally through the screens.
 
-###Thoughts
+### Thoughts
 Although the final interface was not 100% faithful to the low-fidelity prototype, the core concept and user flow remained consistent throughout the design process.
 
 ---

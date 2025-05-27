@@ -53,6 +53,26 @@ The Race Page helps users explore and discover global running events in an engag
 
 # E.X. User Evaluation
 
+To evaluate our prototype, we conducted usability testing with three different users. The goal was to gather both quantitative and qualitative feedback on the interface, overall usability, and clarity of user flows.
+
+We used two main evaluation methods:
+
+1. **System Usability Scale (SUS) Questionnaire**  
+   After interacting with the prototype, each user was asked to complete a SUS questionnaire. This provided us with a standardized score reflecting the overall usability of the system. The SUS helped us quantify user satisfaction and identify broader usability issues.
+
+2. **Standard Usability Testing Form**  
+   During the testing sessions, we also observed users completing predefined tasks such as:
+   - Visit and follow a profile
+   - Edit profile (stats and description)
+   - Register for an official race
+
+   We recorded any visible hesitations or misunderstandings. Users were also encouraged to think aloud while interacting with the prototype, which gave us deeper insights into their expectations and pain points.
+
+Overall, the feedback was very useful. Users found the interface intuitive, especially the "Race" and "Feed" pages. However, a few users pointed out that certain icons and buttons could be more prominent, which helped us refine the layout in the next iteration.
+
+The combination of quantitative SUS scores and observational usability testing allowed us to make data-informed improvements and better align the final product with user needs.
+
+
 ---
 [Back to main Logbook Page](../hci_logbook.md)
 
